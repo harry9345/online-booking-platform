@@ -1,0 +1,47 @@
+.navbar {
+  background-color: #eee;
+}
+.origin,
+.destination {
+  border: 1px solid gray;
+  width: 25%;
+  padding: 10px;
+  margin: 15px;
+}
+.descriptions {
+  padding: 20px;
+  margin: 18px;
+}
+
+.span {
+  font-weight: 700;
+  color: #ff1b02;
+  font-size: 25px;
+}
+.calendarDiv {
+  border: 1px solid gray;
+  width: 50%;
+  height: 420px;
+}
+.options {
+  background-color: rgba(126, 126, 126, 0.6);
+  width: 80px;
+  height: 23px;
+}
+#monthSelectTagId {
+  margin: 10px;
+  position: absolute;
+  left: 0;
+}
+#yearSelectTagId {
+  margin: 10px;
+  position: absolute;
+  right: 0;
+  margin-top: -10px;
+}
+.table {
+  margin-top: 33px;
+}
+.curent {
+  text-align: center;
+}
